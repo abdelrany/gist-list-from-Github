@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+    <TextView
+
+        android:id="@+id/textViewProfilUserName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="@color/secondarycolor"
+        android:background="@drawable/edit_text_style"/>
+
+    <ListView
+        android:layout_marginTop="20dp"
+        android:id="@+id/ListViewRepos"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</LinearLayout>
