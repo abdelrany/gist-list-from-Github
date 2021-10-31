@@ -2,7 +2,7 @@
 
 # Git List
 
-Git List is an app that search on the github users using ann github api you type the name in the search bar and click su=search you find the user that you are looking for.
+Git List is an app that search on the github users using ann github api you type the name in the search bar and click search you find the user that you are looking for.
 
 
 ## Screenshots
